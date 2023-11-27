@@ -19,7 +19,7 @@ def main():
     start_time = time.time()
     
     parser = argparse.ArgumentParser()
-    parser.add_argument("--nome", action="store_true", default=False,
+    parser.add_argument("--nomes", action="store_true", default=False,
                         help="Nome(s) para consultar na API do IBGE")
     parser.add_argument("--localidade", nargs="*", type=str,
                         help="Ranking para uma localidade específica")
