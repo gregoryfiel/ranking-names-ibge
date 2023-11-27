@@ -100,7 +100,6 @@ This project is designed to help you analyze and rank names using the IBGE API. 
 
 ### Prerequisites
 * Python: You can download and install Python from [Python's official website](https://www.python.org/).
-* 
 * Redis (Optional): If you want to take advantage of caching for optimized performance, you can install Redis. You can download Redis from [Redis's official website](https://redis.io/download) or use package managers like `apt` or `brew`:
  ```bash
   # Example for Debian-based systems
