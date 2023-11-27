@@ -42,8 +42,6 @@
     <a href="https://github.com/gregoryfiel/ranking-names-ibge"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/gregoryfiel/ranking-names-ibge">View Demo</a>
-    ·
     <a href="https://github.com/gregoryfiel/ranking-names-ibge/issues">Report Bug</a>
     ·
     <a href="https://github.com/gregoryfiel/ranking-names-ibge/issues">Request Feature</a>
