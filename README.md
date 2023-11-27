@@ -91,6 +91,8 @@
 ### Built With
 
 * [![Python][Python]][Python-url]
+* [![Redis][Redis]][Redis-url]
+* [![Git][Git]][Git-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,12 +101,17 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This project is designed to help you analyze and rank names using the IBGE API.
+This project is designed to help you analyze and rank names using the IBGE API. The program utilizes multiprocessing, leveraging parallelism with the available CPU cores, to enhance performance during data retrieval. Additionally, by incorporating Redis as a caching mechanism, the system achieves an average speed improvement of up to 300%, making the ranking process more efficient and responsive.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software.
-* requirements
+* Python: You can download and install Python from [Python's official website](https://www.python.org/).
+* Redis (Optional): If you want to take advantage of caching for optimized performance, you can install Redis. You can download Redis from [Redis's official website](https://redis.io/download) or use package managers like `apt` or `brew`:
+ ```bash
+  # Example for Debian-based systems
+  sudo apt-get update
+  sudo apt-get install redis-server
+```
+* Requirements.txt
   ```sh
   pip install -r requirements.txt
   ```
@@ -241,3 +248,8 @@ Project Link: [https://github.com/gregoryfiel/ranking-names-IBGE](https://github
 [product-screenshot]: images/capture.png
 [Python]:https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]:https://www.python.org/
+[Redis]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+[Redis-url]: https://redis.io/
+[Git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[Git-url]: https://git-scm.com/
+
