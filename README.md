@@ -39,9 +39,6 @@
   <p align="center">
     This Python project implements a names ranking system using the IBGE API. It fetches and analyzes data to provide insights into the frequency of names in Brazil, supporting various parameters such as location, sex, and time periods.
     <br />
-    <a href="https://github.com/gregoryfiel/ranking-names-ibge"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/gregoryfiel/ranking-names-ibge/issues">Report Bug</a>
     ·
     <a href="https://github.com/gregoryfiel/ranking-names-ibge/issues">Request Feature</a>
