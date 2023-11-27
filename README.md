@@ -246,7 +246,7 @@ Project Link: [https://github.com/gregoryfiel/ranking-names-IBGE](https://github
 [license-shield]: https://img.shields.io/github/license/gregoryfiel/ranking-names-ibge.svg?style=for-the-badge
 [license-url]: https://github.com/gregoryfiel/ranking-names-ibge/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/gregoryfiel
+[linkedin-url]: https://www.linkedin.com/in/gregory-fiel/
 [product-screenshot]: images/capture.png
 [Python]:https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]:https://www.python.org/
