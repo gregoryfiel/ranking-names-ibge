@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gregoryfiel/ranking-names-ibge">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/transferir.png" alt="Logo" width="350" height="250">
   </a>
 
 <h3 align="center">IBGE Names Ranking System</h3>
@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/gregoryfiel/ranking-names-ibge/blob/main/images/Captura%20de%20tela%202023-11-27%20104209.png?raw=true)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,6 +238,6 @@ Project Link: [https://github.com/gregoryfiel/ranking-names-IBGE](https://github
 [license-url]: https://github.com/gregoryfiel/ranking-names-ibge/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gregoryfiel
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/capture.png
 [Python]:https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]:https://www.python.org/
