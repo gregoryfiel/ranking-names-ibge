@@ -9,7 +9,7 @@ def main():
        e o ranking geral e específico dos nomes.
 
     Argumentos:
-    --nome -> caso a flag seja passada, o programa irá consultar os nomes no arquivo nomes.json, caso contrário, o programa irá retornar o ranking geral.
+    --nomes -> caso a flag seja passada, o programa irá consultar os nomes no arquivo nomes.json, caso contrário, o programa irá retornar o ranking geral.
     --ranking (str) Nome(s)
     --localidade (int) Localidade
     --decada (int) Década
