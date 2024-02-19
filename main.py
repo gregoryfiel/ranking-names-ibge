@@ -35,7 +35,7 @@ def main():
 
     try:
         ibge = Ibge(retry=args.retryTimeout[0], timeout=args.retryTimeout[1])
-        ranking = Ranking(args.nome, args.localidade, args.sexo, args.decada, ibge)
+        ranking = Ranking(args.nomes, args.localidade, args.sexo, args.decada, ibge)
         ranking.consultar_ranking()
         ranking.ordenar_frequencia()
         ranking.imprimir_ranking()
